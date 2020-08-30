@@ -4,7 +4,6 @@ ball_config
 */
 phina.globalize();
 
-
 var power_counter = 0;
 
 phina.define("Scene01", {
